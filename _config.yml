@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Femi Joshua O
-title: IT Solution Developer | System Administrator
+title: IT Solutions Developer | System Administrator
 email: femi-joshua@ichanneltech.com
 website: https://ichanneltech.com
 
@@ -26,11 +26,11 @@ about_profile_image: images/fm1.png
 about_content: |
   Hello, my name is Femi Joshua Olayiwola. I am a Technocrat, Social Entrepreneur, Realist, and Gospel Advocate. 
   I work with IChannel Technologies in Nigeria as a senior executive director. 
-  In practice, I work as a solutions developer, designing programs, software, and network architecture to meet the needs of my clients. 
-  I help my clients reach their objectives by developing IT solutions that address all of their requirements. 
-  I've worked for a lot of firms, earning experience in teamwork and leadership.
+  In practice, I work as a solutions developer, designing programs, software, and network architecture to meet the needs of our clients. 
+  I help our clients reach their objectives by developing IT solutions that address all of their requirements. 
+  I've worked for a lot of firms, earning experience in teamwork and leadership🥇.
 
-  I am most skilled in Cloud services administration and <mark>eating pizza</mark> 🍕.
+  I am most skilled in <mark>Cloud Services</mark> administration, Website Development (Static Jekyll and CMS), IT Research/Strategies and <mark>eating pizza</mark> 🍕.
 
 content:
   - title: Projects # Title for the section
@@ -38,7 +38,7 @@ content:
     content:
       - layout: left
         border: weak
-        title: ERP Solutions with ERPNext
+        title: ERPNext
         link: 
         additional_links:
           - title:  Github page for project
@@ -46,7 +46,7 @@ content:
             url: https://github.com/frappe/erpnext
         quote: >
           ERPNext is one of the most impressive enterprise business applications on which I have ever worked. 
-          Because it is a Phyton application and an open source project, its simplicity and community of talented developers 
+          Because it is a Python application and an open source project, its simplicity and community of talented developers 
           assist in promptly resolving issues..
         description: |
           I have been working on ERPNext for over six years and have implemented it in a variety of businesses.
@@ -65,7 +65,7 @@ content:
         quote: >
           Powerful Business Management System, and 'Apps for SMEs'.
         description: |
-          BizSuite BMS is forked business management software focused on simplicity. I believe that the best software is the one that is easy to use, 
+          BizSuite BMS is a forked business management software focused on simplicity. I believe that the best software is the one that is easy to use, 
           and this is what I strive for with our software. With an intuitive user interface and with no complicated tasks, 
           BizSuite is perfect for any small business or freelancer. It comes with extend functionalities and adaptive modules that suit your business, BizSuite comes with a lifetime development and integration cycle; 
           new version releases and updates
@@ -80,7 +80,7 @@ content:
         link: ichanneltech.com
         description: |
           I take a leading position in the development, execution, monitoring, and management of projects, as well as their conclusion. 
-          I design and implement custom IT solutions that meet the needs of my customers' businesses. 
+          I design and implement custom IT solutions that meet the needs of our customers' businesses. 
           I also take care of the many administrative tasks that go along with a project.
 
       - layout: left
@@ -93,13 +93,13 @@ content:
           - Developed Cisco and Microsoft training curriculum for Idea Konsult IT Training Center
           - Managing the networking system and ensuring adequate network security
           - Site Technician for Pearson VUE and Thomson Prometric Testing Center
-  - title: Capabilities and skills
+  - title: Capabilities and skills 💪
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Understand the country information and technology communication business strategies
       - Open Minded, the ability to understand, handle any new technologies in a short time
       - Providing expedient error corrections and solutions whilst working on projects in a variety of support and development roles.
-      - Highly Intellectual in use of Computer and well experienced in using most application and system software
+      - Highly Intellectual in use of Computer and well experienced in using <mark>most application and system software</mark>
       - Excellent in website and web application designing using content management 
       - Understanding Complex network, such as IP, IGRP, IP RIP, asynchronous routing, Apple Talk, Extended 
       access-list, route redistribution, IPX RIP, route summarization, OSPF, VLSM, Serial IGRP, VLAN, Ethernet access-list 802.10
