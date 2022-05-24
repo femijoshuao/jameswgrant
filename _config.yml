@@ -18,23 +18,15 @@ linkedin_username: femijoshuao
 
 # About Section
 # about_title: About Me
-about_profile_image: images/femi-Joshua-circled-image.png
+about_profile_image: images/fm1.png
 about_content: |
-  Hi, my name is James Grant, I'm a full stack web developer with over 9 years experience currently specialising in React development.
-  I am currently working for NatWest as a Lead Frontend Software Engineer on their comercial banking platform, Bankline.
+  Hello, my name is Femi Joshua Olayiwola. I am a Technocrat, Social Entrepreneur, Realist, and Gospel Advocate. 
+  I work with IChannel Technologies in Nigeria as a senior executive director. 
+  In practice, I work as a solutions developer, designing programs, software, and network architecture to meet the needs of my clients. 
+  I help my clients reach their objectives by developing IT solutions that address all of their requirements. 
+  I've worked for a lot of firms, earning experience in teamwork and leadership.
 
-  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
-  I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience.
-  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
-  with something new. The things that I currently have the most experience working with are:
-  <mark>ES6 Javascript</mark>,
-  <mark>React &amp; Redux</mark>,
-  <mark>Node.js</mark>,
-  <mark>Java</mark>,
-  <mark>MySQL</mark>,
-  <mark>SASS</mark>,
-  <mark>git</mark> and
-  <mark>AWS</mark>.
+  I am most skilled in Cloud services administration and <mark>eating pizza</mark> 🍕.
 
 content:
   - title: Projects # Title for the section
@@ -42,37 +34,37 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: Mordern Resume Theme
-        link: sproogen.github.io/modern-resume-theme
+        title: Enterprise Resources Planning (ERP) Solutions
+       # link: 
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title:  Github page for project
             icon: fab fa-github
-            url: https://github.com/sproogen/modern-resume-theme
+            url: https://github.com/frappe/erpnext
         quote: >
-          A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+          ERPNext is one of the most impressive enterprise business applications on which I have ever worked. 
+          Because it is a Phyton application and an open source project, its simplicity and community of talented developers 
+          assist in promptly resolving issues..
         description: |
-          This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
-          I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
-          It has allowed me to share something I have created in a way that will be helpful for lots of people while also learning from this myself.
+          TThis project began as a way for me to understand the Frappe Framework and to assist my customer in moving to a 
+          digital business solution in order to achieve their objectives. This has taught me a lot of useful skills, and I'm pleased to have it in my portfolio. 
+          If you're looking for a cost-effective business application that can replace SAP or SAGE and includes manageable modules such as Accounting, 
+          Invoicing, Inventory, Manufacturing, Sales, Human Resources, and more, go no further. I'll gladly help you set it up on any cloud service 
+          provider of your choosing. I also provided a managed solution for small businesses.
       - layout: top-middle
-        title: itsgoingto.be
-        link: www.itsgoingto.be
+        title: BizSuite 
+        link: bizsuite.com.ng
         additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
+          - title: Business Management Application
+            icon: fab fa-web
+            url: https://bizsuite.com.ng
         quote: >
-          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+          Powerful Business Management System, and 'Apps for SMEs'.
         description: |
-          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-          a suite of unit and API tests for the backend and unit tests for the front end.
+          BizSuite ERP is a business management software focused on simplicity. I believe that the best software is easy to use, 
+          and this is what we strive for with our software. With an intuitive user interface and with no complicated tasks, 
+          BizSuite ERP is perfect for any small business or freelancer.
 
-          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
-          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
 
-          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
 
   - title: Experience
     layout: list
