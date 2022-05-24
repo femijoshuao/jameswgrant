@@ -60,7 +60,7 @@ content:
         link: bizsuite.com.ng
         additional_links:
           - title: Business Management Application
-            icon: fab fa-web
+            icon: fa fa-chrome
             url: https://bizsuite.com.ng
         quote: >
           Powerful Business Management System, and 'Apps for SMEs'.
@@ -69,18 +69,6 @@ content:
           and this is what I strive for with our software. With an intuitive user interface and with no complicated tasks, 
           BizSuite is perfect for any small business or freelancer. with extend functionalities with adaptive modules that suit your business, BizSuite comes with a lifetime development and integration cycle; 
           new version releases and updates
-      - layout: left
-        title: MagicWebHost
-        link: magicwebhost.com
-          - title: Cloud Hosting Service
-          - icon: fab fa-web
-          - url: https://magicwebhost.com
-        #-quote:>
-          - description: |
-          MagicWebHost is a managed hosting service specially developed for our customers' hosting needs. 
-
-
-
   - title: Experience
     layout: list
     content:
