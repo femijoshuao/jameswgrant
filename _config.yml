@@ -30,7 +30,7 @@ about_content: |
   I help our clients reach their objectives by developing IT solutions that address all of their requirements. 
   I've worked for a lot of firms, earning experience in teamwork and leadership🥇.
 
-  I am most skilled in <mark>Cloud Services</mark> administration, Website Development (Static Jekyll and CMS), IT Research/Strategies and <mark>eating pizza</mark> 🍕.
+  I am most skilled in <mark>Cloud Services</mark> (AWS,Google Cloud, Azure, Digital Ocean, Alibaba Cloud) administration, Website Development (Static Jekyll and CMS), IT Research/Strategies and <mark>eating pizza</mark> 🍕.
 
 content:
   - title: Projects # Title for the section
@@ -56,7 +56,7 @@ content:
           Invoicing, Inventory, Manufacturing, Sales, Human Resources, and more, go no further. I'll gladly help you set it up on any cloud service 
           provider of your choosing. I also provided a managed solution for small businesses.
       - layout: left
-        title: Bizsuite BMS
+        title: Business Software
         link: bizsuite.com.ng
         additional_links:
           - title: Business Management Application
