@@ -61,7 +61,7 @@ content:
         additional_links:
           - title: Business Management Application
             icon: fa fa-chrome
-            url: https://bizsuite.com.ng
+            url: bizsuite.com.ng
         quote: >
           Powerful Business Management System, and 'Apps for SMEs'.
         description: |
@@ -77,22 +77,35 @@ content:
         title: IChannel Technologies
         sub_title: Senior Executive Officer
         caption: Nov 2010 - Present
-        link: https://ichanneltech.com
+        link: ichanneltech.com
         description: |
           I take a leading position in the development, execution, monitoring, and management of projects, as well as their conclusion. 
           I design and implement custom IT solutions that meet the needs of my customers' businesses. 
           I also take care of the many administrative tasks that go along with a project.
+
       - layout: left
         border: weak
         title: Ideal Konsult
         sub_title: Network Administrator / Trainer
         caption: March 2009
         description: |
-          Instruct Cisco , Microsoft, Security and System Administration Courses
+          - Instruct Cisco , Microsoft, Security and System Administration Courses
+          - Developed Cisco and Microsoft training curriculum for Idea Konsult IT Training Center
+          - Managing the networking system and ensuring adequate network security
+          - Site Technician for Pearson VUE and Thomson Prometric Testing Center
   - title: Capabilities and skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-     hello
+      - Understand the country information and technology communication business strategies
+      - Open Minded, the ability to understand, handle any new technologies in a short time
+      - Providing expedient error corrections and solutions whilst working on projects in a variety of support and development roles.
+      - Highly Intellectual in use of Computer and well experienced in using most application and system software
+      - Excellent in website and web application designing using content management 
+      - Understanding Complex network, such as IP, IGRP, IP RIP, asynchronous routing, Apple Talk, Extended 
+      access-list, route redistribution, IPX RIP, route summarization, OSPF, VLSM, Serial IGRP, VLAN, Ethernet access-list 802.10
+      - Technically skilled in Remote Troubleshooting
+      - Exceptional skill in the use and deployement of Open source software
+      -  Able to work on <mark>Switches</mark> (Cisco, Mikrotik, AirLive), <mark>Routers</mark> (Cisco, Mikrotik, Ubiquiti), Wireless Equipment (Cisco, Ubiquiti, Mikrotik Cisco PIX Firewall
 
 # Footer
 footer_show_references: false
