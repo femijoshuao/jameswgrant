@@ -86,9 +86,10 @@ content:
     content:
       - layout: left
         border: weak
-        title: NatWest
-        sub_title: Lead Frontend Software Engineer
-        caption: July 2021 - Present
+        title: IChannel Technologies
+        sub_title: Senior Executive Officer
+        caption: Nov 2010 - Present
+        link: https://ichanneltech.com
         description: |
           Taken accountability for the frontend of the payments product area within a commercial banking platform, becoming a go to for knowledge and technical decisions.
 
