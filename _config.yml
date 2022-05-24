@@ -8,13 +8,17 @@ version: 2
 name: Femi Joshua O
 title: IT Solution Developer | System Administrator
 email: femi-joshua@ichanneltech.com
+website: https://ichanneltech.com
 
 # Social links
 twitter_username: femijoshuao
 facebook_username: femijoshuao
 instagram_username: femijoshuao
 linkedin_username: femijoshuao
-
+additional_links:
+- title: Telegram
+  icon: fab fa-telegram
+  url: https://t.me/femijoshuao
 
 # About Section
 # about_title: About Me
@@ -32,7 +36,7 @@ content:
   - title: Projects # Title for the section
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         border: weak
         title: Enterprise Resources Planning (ERP) Solutions
        # link: 
@@ -45,13 +49,14 @@ content:
           Because it is a Phyton application and an open source project, its simplicity and community of talented developers 
           assist in promptly resolving issues..
         description: |
-          TThis project began as a way for me to understand the Frappe Framework and to assist my customer in moving to a 
-          digital business solution in order to achieve their objectives. This has taught me a lot of useful skills, and I'm pleased to have it in my portfolio. 
+          This project began as a way for me to understand the Frappe Framework and to assist my customers in moving to a 
+          digital business solution in order to achieve their objectives. This has taught me a lot of useful skills, and I'm pleased to have it in my portfolio.
+          I've been working on ERPNext for over six years and have implemented it in a variety of businesses.
           If you're looking for a cost-effective business application that can replace SAP or SAGE and includes manageable modules such as Accounting, 
           Invoicing, Inventory, Manufacturing, Sales, Human Resources, and more, go no further. I'll gladly help you set it up on any cloud service 
           provider of your choosing. I also provided a managed solution for small businesses.
-      - layout: top-middle
-        title: BizSuite 
+      - layout: left
+        title: Business Management Application (Bizsuite BMS)
         link: bizsuite.com.ng
         additional_links:
           - title: Business Management Application
@@ -60,9 +65,19 @@ content:
         quote: >
           Powerful Business Management System, and 'Apps for SMEs'.
         description: |
-          BizSuite ERP is a business management software focused on simplicity. I believe that the best software is easy to use, 
-          and this is what we strive for with our software. With an intuitive user interface and with no complicated tasks, 
-          BizSuite ERP is perfect for any small business or freelancer.
+          BizSuite BMS is a business management software focused on simplicity. I believe that the best software is the one that is easy to use, 
+          and this is what I strive for with our software. With an intuitive user interface and with no complicated tasks, 
+          BizSuite is perfect for any small business or freelancer. with extend functionalities with adaptive modules that suit your business, BizSuite comes with a lifetime development and integration cycle; 
+          new version releases and updates
+      - layout: left
+        title: MagicWebHost
+        link: magicwebhost.com
+          - title: Cloud Hosting Service
+          - icon: fab fa-web
+          - url: https://magicwebhost.com
+        #-quote:>
+          - description: |
+          MagicWebHost is a managed hosting service specially developed for our customers' hosting needs. 
 
 
 
