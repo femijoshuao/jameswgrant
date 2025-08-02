@@ -11,14 +11,14 @@ email: femi-joshua@ichanneltech.com
 website: https://ichanneltech.com
 
 # Social links
-twitter_username: femijoshuao
+twitter_username: thekingchild
 facebook_username: femijoshuao
-instagram_username: femijoshuao
+instagram_username: _thekingchild
 linkedin_username: femijoshuao
 additional_links:
 - title: Telegram
   icon: fab fa-telegram
-  url: https://t.me/femijoshuao
+  url: https://t.me/thekingchild
 
 # About Section
 # about_title: About Me
@@ -30,7 +30,7 @@ about_content: |
   I help our clients reach their objectives by developing IT solutions that address all of their requirements. 
   I've worked for a lot of firms, earning experience in teamwork and leadership🥇.
 
-  I am most skilled in <mark>Cloud Services</mark> (AWS,Google Cloud, Azure, Digital Ocean, Alibaba Cloud) administration, Website Development (Static Jekyll and CMS), IT Research/Strategies, Docker Services, Data Automation, and <mark>eating pizza</mark> 🍕.
+  I am most skilled in <mark>Cloud Services</mark> (AWS,Google Cloud, Azure, Digital Ocean, Alibaba Cloud) administration, Website Development (Static Jekyll, laravel and CMS), IT Research/Strategies, Docker Services, Data Automation, and <mark>eating veggies</mark> 🥦.
 
 content:
   - title: Projects # Title for the section
@@ -61,10 +61,10 @@ content:
         link: bizsuite.com.ng
         additional_links:
           - title: Business Management Application
-            icon: fa fa-chrome
+            icon: fa fa-external-link
             url: bizsuite.com.ng
         quote: >
-          Powerful Business Management System, and 'Apps for SMEs'.
+          Powerful Business Management System, and Apps for SMEs.
         description: |
           BizSuite BMS is a forked business management software focused on simplicity. I believe that the best software is the one that is easy to use, 
           and this is what I strive for with our software. With an intuitive user interface and with no complicated tasks, 
@@ -76,10 +76,10 @@ content:
         link: goeatery.ng
         additional_links:
           - title: GoEatery - Cloud Restaurants and Bars ManagementApplication
-            icon: fa fa-chrome
+            icon: fa fa-external-link
             url: goeatery.ng
         quote: >
-          Restaurant POS software made simple'.
+          Restaurant POS software made simple.
         description: |
           GoEatery is a cloud-based restaurant management software designed to simplify the complexities of running a restaurant. With features like table management, 
           order tracking, and inventory management, GoEatery provides a comprehensive solution for restaurant owners. The user-friendly interface ensures that staff can quickly learn the system, 
@@ -90,13 +90,30 @@ content:
         link: gotext.ng
         additional_links:
           - title: GoText Nigeria - Robust SMS Marketing Application
-            icon: fa fa-chrome
-            url: gotext
+            icon: fa fa-external-link
+            url: gotext.ng
         quote: >
-          SMS and WhatsApp Marketing that Scales with You'.
+          SMS and WhatsApp Marketing that Scales with You.
         description: |
           GoText is a powerful SMS marketing application that allows businesses to reach their customers directly through text messages. 
           With features like bulk messaging, contact management, and analytics, GoText makes it easy to create and manage effective marketing campaigns. 
+          The platform is designed to be user-friendly, ensuring that even those with minimal technical knowledge can use it effectively. 
+          Whether you're a small business or a large corporation, GoText provides the tools you need to engage your audience and drive sales.
+
+          - layout: left
+        title: GoCRM - Robust Customer Management Application
+        link: gocrm.ng
+        additional_links:
+          - title: GoCRM Nigeria - Robust Customer Management Application
+            icon: fa fa-external-link
+            url: gocrm.ng
+        quote: >
+          Customer Management and Billing Made Easy.
+        description: |
+          GoCRM is a comprehensive customer management application designed to help businesses manage their customer relationships effectively. 
+          With features like contact management, sales tracking, and customer analytics, GoCRM provides a 360-degree view of your customers. 
+          The user-friendly interface makes it easy for teams to collaborate and share information, ensuring that everyone is on the same page. 
+          Whether you're a small business or a large enterprise, GoCRM has the tools you need to build strong customer relationships and drive growth.
           The platform is designed to be user-friendly, ensuring that even those with minimal technical knowledge can use it effectively. 
           Whether you're a small business or a large corporation, GoText provides the tools you need to engage your audience and drive sales.
           
@@ -109,6 +126,7 @@ content:
         sub_title: Senior Executive Director
         caption: Nov 2010 - Present
         link: ichanneltech.com
+        additional_links: ohrsystems.ng
         description: |
          IChannel Technologies is a one-stop shop for total digital transformation. We are a potential provider of ERP solutions for corporate automation. We offer world-class solutions to small and medium-sized businesses. Our consulting and technological experience enable us to provide you with personalized experiences to business challenges. <br>Our bespoke corporate resource planning ensures that resources are deployed optimally and that they can be monitored in real time.
          <p>####Roles####</p>
