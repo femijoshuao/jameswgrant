@@ -55,6 +55,7 @@ content:
           If you're looking for a cost-effective business application that can replace SAP or SAGE and includes manageable modules such as Accounting, 
           Invoicing, Inventory, Manufacturing, Sales, Human Resources, and more, go no further. I'll gladly help you set it up on any cloud service 
           provider of your choosing. I also provided a managed solution for small businesses.
+      
       - layout: left
         title: Business Management Software
         link: bizsuite.com.ng
@@ -69,7 +70,8 @@ content:
           and this is what I strive for with our software. With an intuitive user interface and with no complicated tasks, 
           BizSuite is perfect for any small business or freelancer. It comes with extend functionalities and adaptive modules that suit your business, BizSuite comes with a lifetime development and integration cycle; 
           new version releases and updates
-           - layout: left
+      
+      - layout: left
         title: GoEatery 
         link: goeatery.ng
         additional_links:
@@ -82,7 +84,8 @@ content:
           GoEatery is a cloud-based restaurant management software designed to simplify the complexities of running a restaurant. With features like table management, 
           order tracking, and inventory management, GoEatery provides a comprehensive solution for restaurant owners. The user-friendly interface ensures that staff can quickly learn the system, 
           allowing them to focus on providing excellent customer service. Whether you run a small café or a large restaurant, GoEatery has the tools you need to succeed.
-           - layout: left
+      
+      - layout: left
         title: SMS Marketing Application
         link: gotext.ng
         additional_links:
