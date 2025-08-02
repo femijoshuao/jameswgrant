@@ -38,8 +38,9 @@ content:
     content:
       - layout: left
         border: weak
-        title: Enterprise Resource Planning
-        link: 
+        title: ERPNext  
+        sub_title: Frappe Framework
+        link: github.com/frappe
         additional_links:
           - title:  Github page for project
             icon: fab fa-github
@@ -49,7 +50,7 @@ content:
           Because it is a Python application and an open source project, its simplicity and community of talented developers 
           assist in promptly resolving issues..
         description: |
-          I have been working on ERPNext for over six years and have implemented it in a variety of businesses.
+          I have been working on ERPNext for over a decade and have implemented it in a variety of businesses.
           This project began as a way for me to understand the Frappe Framework and to assist my customers in moving to a 
           digital business application in order to achieve their objectives. Frappe framework has taught me a lot of useful skills, and I'm pleased to have it in my portfolio.
           If you're looking for a cost-effective business application that can replace SAP or SAGE and includes manageable modules such as Accounting, 
@@ -86,7 +87,7 @@ content:
           allowing them to focus on providing excellent customer service. Whether you run a small café or a large restaurant, GoEatery has the tools you need to succeed.
       
       - layout: left
-        title: SMS Marketing Application
+        title: GoText
         link: gotext.ng
         additional_links:
           - title: GoText Nigeria - Robust SMS Marketing Application
