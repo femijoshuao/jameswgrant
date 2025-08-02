@@ -57,11 +57,11 @@ content:
           provider of your choosing. I also provided a managed solution for small businesses.
       
       - layout: left
-        title: Business Management Software
+        title: BizSuite BMS
         link: bizsuite.com.ng
         additional_links:
           - title: Business Management Application
-            icon: fa fa-external-link
+            icon: 
             url: bizsuite.com.ng
         quote: >
           Powerful Business Management System, and Apps for SMEs.
@@ -76,7 +76,7 @@ content:
         link: goeatery.ng
         additional_links:
           - title: GoEatery - Cloud Restaurants and Bars ManagementApplication
-            icon: fa fa-external-link
+            icon:
             url: goeatery.ng
         quote: >
           Restaurant POS software made simple.
@@ -90,7 +90,7 @@ content:
         link: gotext.ng
         additional_links:
           - title: GoText Nigeria - Robust SMS Marketing Application
-            icon: fa fa-external-link
+            icon:
             url: gotext.ng
         quote: >
           SMS and WhatsApp Marketing that Scales with You.
@@ -100,12 +100,11 @@ content:
           The platform is designed to be user-friendly, ensuring that even those with minimal technical knowledge can use it effectively. 
           Whether you're a small business or a large corporation, GoText provides the tools you need to engage your audience and drive sales.
 
-          - layout: left
-        title: GoCRM - Robust Customer Management Application
+      - layout: left
+        title: GoCRM 
         link: gocrm.ng
         additional_links:
-          - title: GoCRM Nigeria - Robust Customer Management Application
-            icon: fa fa-external-link
+          - title: GoCRM - Robust Customer Management Application
             url: gocrm.ng
         quote: >
           Customer Management and Billing Made Easy.
